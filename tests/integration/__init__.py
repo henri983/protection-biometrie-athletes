@@ -1,0 +1,3 @@
+"""
+Tests d'intégration API.
+"""
